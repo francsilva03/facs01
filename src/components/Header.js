@@ -25,6 +25,7 @@ class Header extends Component {
     body.setAttribute(dataThemeAttribute, newTheme);
   }
 
+
   render() {
     if (this.props.sharedData) {
       var name = this.props.sharedData.name;
@@ -40,7 +41,9 @@ class Header extends Component {
         <div className="row aligner" style={{height: '100%'}}>
           <div className="col-md-12">
             <div>
-            <Icon className="iconify header-icon" icon="la:laptop-code" data-inline="false"/>
+              <a href="https://drive.google.com/file/d/1LzUv_5uijKoM0EH_lOplXItd_orVXt8V/view?usp=sharing" target="_blank" rel="noreferrer" style={{color:'inherit'}}>
+            <Icon className="iconify header-icon" icon="la:laptop-code" data-inline="false" />
+            </a>
               <br/>
               <h1 className="mb-0">
                 <Typical steps={[name]} wrapper="p" />

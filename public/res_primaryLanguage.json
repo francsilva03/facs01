@@ -1,0 +1,110 @@
+{
+  "basic_info": {
+    "description_header": "Hello!",
+    "description": "👋 I'm Francisco Castañeda, a self-taught full-stack developer highly passionate and professional. My passion has always been software development, but above all, that it has an attractive design, that hooks whoever uses it. If you are interested in working with me or hiring me, you can contact me through my email or my social networks. I'm excited that we create the applications of the future!. Thank you!.",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "Calculator",
+      "startDate": "2020",
+      "description": "Application based on HTML, CSS AND JAVASCRIPT. Minimalist calculator.",
+      "images": [
+        "images/portfolio/calculator/p1.jpg",
+        "images/portfolio/calculator/p2.jpg"
+      ],
+      "url": "https://calculator-francsilva03.netlify.app/",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        }
+      ]
+    },
+    {
+      "title": "To Do List",
+      "startDate": "2021",
+      "description": "Application based on HTML, CSS, BOOTSTRAP AND JAVASCRIPT. You can add tasks, modify and delete them depending on what you need.",
+      "images": [
+        "images/portfolio/todo-list/p1.jpg",
+        "images/portfolio/todo-list/p2.jpg"
+      ],
+      "url": "https://todo-list-francsilva03.netlify.app/",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "name": "Bootstrap",
+          "class": "devicon-bootstrap-plain",
+          "level": "85"
+        }
+      ]
+    },
+    {
+      "title": "Weather App",
+      "startDate": "2021",
+      "description": "Application based on HTML, CSS AND JAVASCRIPT. You can search the weather in a simple and useful way thanks to the JavaScript API. I've learned a lot!",
+      "images": [
+        "images/portfolio/weather-app/p1.jpg",
+        "images/portfolio/weather-app/p2.jpg"
+      ],
+      "url": "https://weather-app-francsilva03.netlify.app/",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Freelance",
+      "title": "Intern",
+      "years": "01.2020 - present",
+      "mainTech": ["ReactJS"],
+      "technologies": ["ReactJS", "MongoDB", "JavaScript", "MySQL"]
+    },
+    {
+      "company": "OLTP VOICE",
+      "title": "Tester",
+      "years": "05.2019 - 12.2019",
+      "mainTech": ["JavaScript ES6"],
+      "technologies": [
+        "REST API",
+        "ReactJS",
+        "JavaScript",
+        "Bootstrap",
+        "MDBootstrap"
+      ]
+    }
+  ]
+}

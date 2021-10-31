@@ -83,6 +83,41 @@
           "level": "95"
         }
       ]
+    },
+    {
+      "title": "Notes App",
+      "startDate": "2021",
+      "description": "A simple App to manage notes developed with Nodejs, Express, Mongodb and Javascript Technologies",
+      "images": [
+        "images/portfolio/notes-app/p1.jpg",
+        "images/portfolio/notes-app/p2.jpg"
+      ],
+      "url": "http://expressjs-facs01.herokuapp.com/",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "name": "Express",
+          "class": "devicon-express-original-wordmark",
+          "level": "80"
+        },
+        {
+          "name": "Bootstrap",
+          "class": "devicon-bootstrap-plain",
+          "level": "85"
+        },
+        {
+          "name": "MongoDB",
+          "class": "devicon-mongodb-plain",
+          "level": "60"
+        }
+      ]
     }
   ],
   "experience": [

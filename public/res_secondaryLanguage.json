@@ -118,6 +118,36 @@
             "level": "60"
           }
         ]
+      },
+      {
+        "title": "Book App",
+        "startDate": "2021",
+        "description": "Basándose unicamente en JavaScript sin ningun tipo de framework, con manejo del DOM., se pudo crear una aplicacion Full-Stack usando de base de datos MongoDB.",
+        "images": [
+          "images/portfolio/books-app/p1.jpg",
+          "images/portfolio/books-app/p2.jpg"
+        ],
+        "url": "https://books-app-facs01.herokuapp.com/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "name": "Bootstrap",
+            "class": "devicon-bootstrap-plain",
+            "level": "85"
+          },
+          {
+            "name": "MongoDB",
+            "class": "devicon-mongodb-plain",
+            "level": "60"
+          }
+        ]
       }
     ],
     "experience": [
